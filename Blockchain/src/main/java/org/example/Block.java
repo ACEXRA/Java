@@ -52,12 +52,4 @@ public class Block {
         return StringHash.stringHash(previousHash+Long.toString(timeStamp)+data);
 
     }
-    public void mineBlock(int difficulty){
-        String target=new String(new char[difficulty]).replace('\0','0');
-        while (!getHash().substring(0,difficulty).equals(target)){
-            mine++;
-            setHash(calculateHash());
-        }
-        System.out.println("Block Mined :"+getHash());
-    }
 }
