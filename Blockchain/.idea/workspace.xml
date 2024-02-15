@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="033c8fd0-c659-4c9c-bbe7-5fffba20c918" name="Changes" comment="Flames game">
-      <change beforePath="$PROJECT_DIR$/Blockchain/src/main/java/org/example/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blockchain/src/main/java/org/example/Block.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blockchain/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Blockchain/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="033c8fd0-c659-4c9c-bbe7-5fffba20c918" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707877381773</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Flames game">
+      <option name="closed" value="true" />
+      <created>1707878370017</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707878370017</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

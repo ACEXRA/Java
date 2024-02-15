@@ -9,7 +9,7 @@ public class Block {
     private long timeStamp;
     public int mine;
 
-    public Block( String previousHash, String data) {
+    public Block( String data, String previousHash) {
         this.previousHash = previousHash;
         this.data = data;
         this.timeStamp = new Date().getTime();
